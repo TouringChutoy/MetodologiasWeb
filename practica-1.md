@@ -1,8 +1,8 @@
 # Practica - 1 Metodologias Web
 
 ## Datos Personales
-- Nombre: Diego Adrian Ramirez Montaño
-- Edad: 21 Años
+- Nombre: Diego Adrian Ramirez Montaño.
+- Edad: 21 Años.
 
 ![Foto](/IMG/Foto.jpg)
 
