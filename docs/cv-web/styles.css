@@ -1,0 +1,87 @@
+:root{
+  --font-size: 1rem;
+  --font-family: "Roboto", serif;
+  --color-cadetblue: rgb(95, 158, 160)
+}
+
+html {
+  font-size: 100%; 
+}
+
+body {
+  font-size: var(--font-size);
+  font-family: var(--font-family);
+  color: var(--color-cadetblue);
+  font-style: normal;
+  background-color:antiquewhite;
+}
+
+a{
+  color:brown;
+}
+
+a:hover {
+  color: blueviolet;
+}
+
+table{
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+img{
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+
+#nombre{
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#Inicio, #Acerca, #Habilidades, #Proyectos, #Contacto{
+  font-family: "Sigmar", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#proyectos{
+  font-family: "Permanent Marker", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.bg-black{
+  background-color: black;
+}
+
+.text-bold{
+  font-weight: bold;
+}
+
+.Proyects h2{
+  color: aquamarine;
+}
+
+.Proyects summary:first-child{
+  color: red;
+}
+
+.Proyects summary:last-child{
+  color: blueviolet;
+}
+
+.Proyects summary:last-child{
+  color: brown;
+}
+
+* {
+  box-sizing: border-box;
+}
