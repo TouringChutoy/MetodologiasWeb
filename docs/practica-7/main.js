@@ -7,14 +7,23 @@ const $carrito = d.querySelector("#carrito");
 
 $btnCompra.addEventListener("click", function (e) {
   if ($listaCarrito.children.length > 0) {
-    $mensajeCompra.classList.remove("hidden");
-    setTimeout(function () {
-      $mensajeCompra.classList.add("hidden");
-      $listaCarrito.innerHTML = "";
-      $totalCarrito.textContent = "0";
-    }, 3000);
+      // Mostrar el mensaje de espera y el loader
+      $mensajeCompra.classList.remove("hidden");
+
+      // Simular la compra durante 5 segundos
+      setTimeout(function () {
+          // Ocultar el mensaje de espera y el loader
+          $mensajeCompra.classList.add("hidden");
+
+          // Limpiar el carrito
+          $listaCarrito.innerHTML = "";
+          $totalCarrito.textContent = "0";
+
+          // Mostrar un mensaje de compra exitosa
+          alert("Compra realizada con éxito");
+      }, 5000); // 5000 milisegundos = 5 segundos
   } else {
-    alert("El carrito está vacío");
+      alert("El carrito está vacío");
   }
 });
 
