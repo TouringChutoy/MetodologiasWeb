@@ -8,3 +8,4 @@
 - [Práctica 6 Simulador de Tienda](https://touringchutoy.github.io/MetodologiasWeb/practica-6/)
 - [Práctica 7 Simulador de Tienda con interfaz](https://touringchutoy.github.io/MetodologiasWeb/practica-7/)
 - [Práctica 8 Simulador de Registro](https://touringchutoy.github.io/MetodologiasWeb/practica-8/)
+- [Práctica 9 Simulador de Registro](https://touringchutoy.github.io/MetodologiasWeb/practica-9/)
