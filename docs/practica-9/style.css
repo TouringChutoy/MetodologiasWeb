@@ -1,0 +1,144 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #1a436b;
+  color: #333;
+}
+
+header {
+  background-color: #24588b;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+/* Sección de Productos */
+#products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.producto {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 15px;
+  width: 200px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.producto img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.producto h3 {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.producto p {
+  font-size: 1em;
+  color: #666;
+}
+
+.producto button {
+  background-color: #9a3fb5;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+.producto button:hover {
+  background-color: #9a3fb5;
+}
+
+/* Sección del Carrito */
+#carrito {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#carrito h2 {
+  margin-top: 0;
+}
+
+#lista-carrito {
+  list-style-type: none;
+  padding: 0;
+}
+
+#lista-carrito li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#lista-carrito li:last-child {
+  border-bottom: none;
+}
+
+#total-carrito {
+  font-weight: bold;
+  color: #9a3fb5;
+}
+
+#btn-compra {
+  background-color: #9a3fb5;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1em;
+  margin-top: 10px;
+}
+
+#btn-compra:hover {
+  background-color: #ca1484;
+}
+
+/* Mensaje de compra y loader */
+#mensaje-compra {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+.loader {
+  border: 5px solid #f3f3f3;
+  border-top: 5px solid #9a3fb5;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  animation: spin 1s linear infinite;
+  margin: 20px auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

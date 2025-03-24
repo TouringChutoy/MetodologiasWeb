@@ -1,0 +1,48 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "title": "Playera para Hombre",
+      "price": 15,
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 2,
+      "title": "Pantalones casuales para Hombre",
+      "price": 25,
+      "category": "men's clothing",
+      "image": "https://m.media-amazon.com/images/I/51wQOXVnUwL._AC_SX569_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 300
+      }
+    },
+    {
+      "id": 3,
+      "title": "Zapatos casuales para Hombre",
+      "price": 50,
+      "category": "men's clothing",
+      "image": "https://m.media-amazon.com/images/I/71F9nxt7nkL._AC_SY695_.jpg",
+      "rating": {
+        "rate": 4.0,
+        "count": 150
+      }
+    },
+    {
+      "id": 4,
+      "title": "Sombrero para Hombre",
+      "price": 10,
+      "category": "men's clothing",
+      "image": "https://m.media-amazon.com/images/I/61cGqX9Kj7L._AC_SX569_.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 100
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simulador de Tienda Usando FakeApi</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header>
+    <h1>Simulador de Tienda Usando FakeApi</h1>
+  </header>
+  <!-- Sección de Productos -->
+  <section id="products"></section>
+
+  <!-- Sección del Carrito -->
+  <section id="carrito">
+    <h2>Carrito de Compras</h2>
+    <ul id="lista-carrito"></ul>
+    <p>Total: $<span id="total-carrito">0</span></p>
+    <button id="btn-compra">Comprar</button>
+    <div id="mensaje-compra" class="hidden">
+      <p>Procesando compra...</p>
+      <div class="loader"></div>
+    </div>
+  </section>
+
+  <script src="./main.js"></script>
+</body>
+</html>
