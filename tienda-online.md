@@ -2,13 +2,13 @@
 
 Esta es una tienda para la venta de juegos creados por VesselStudios creada por Diego Ramirez, en esta tienda encontraras juegos de plataforma, juegos narrativos, escape rooms, etc.
 
-| Producto | Precio | Descripción |
-| --------- | --------- | --------- |
-| Let´s Aim To The Heavens | $100 Mx |juego tipo plataforma en el cual su mecánica principal va a ser saltar y será la única mecánica que habrá aparte de la del movimiento ya que esta idea es hacer un plataformero que solo su mapa se desarrolle de forma vertical y tu objetivo en el juego sea alcanzar la cima de cada nivel. |
-| Escape From Your Friends | $200 Mx| Escape from your friends es un juego estilo death-run de multijugador lineal. Que incentiva a la re-jugabilidad por la variedad de mapas que tenemos además de la facilidad de jugar pues solo ocupas una computadora gama baja y un control por cada jugador para poder disfrutar la experiencia|
-| The Lost Rooms | $100 Mx | The Lost Rooms es un escape room el cual consiste de tres episodios del cual cada episodio es un escape room distinto pero conectados para crear una historia la cual puedas interpretar a tu gusto pero aun así creándose una historia conforme avanzas por los episodios.|
-| El bosque de las leyendas | $50 Mx | aventura envolvente que te sumerge en un mundo misterioso y encantado. En este bosque, los senderos se entrelazan con historias olvidadas y criaturas de leyenda acechan en la oscuridad. Desde el momento en que entras en el corazón del bosque, te encuentras con decisiones que moldearán tu destino y el destino de aquellos que te rodean. |
-| Ruleta Tiesa Nerf | $100 Mx | Este es un juego prototipo de una ruleta rusa con diferentes objetos que pueden marcar una diferencia durante una partida si es que se saben utilizar en el momento adecuado. |
+| Producto                  | Precio   | Descripción                                                                                                                                                                                                 | Categoría          | Plataforma       |
+|---------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------|
+| Let´s Aim To The Heavens  | $100 Mx  | Juego tipo plataforma en el cual su mecánica principal va a ser saltar y será la única mecánica que habrá aparte de la del movimiento. El objetivo es alcanzar la cima de cada nivel en un mapa vertical.   | Plataformas        | PC/Móvil               |
+| Escape From Your Friends  | $200 Mx  | Juego estilo death-run multijugador lineal con variedad de mapas. Solo necesitas una computadora gama baja y un control por jugador.                                                                        | Multijugador       | PC (Local)       |
+| The Lost Rooms            | $100 Mx  | Escape room dividido en tres episodios conectados, cada uno con una historia interpretable pero con una narrativa progresiva.                                                                               | Puzzle/Aventura    | PC               |
+| El bosque de las leyendas | $50 Mx   | Aventura envolvente en un bosque misterioso donde tus decisiones afectan el destino del personaje y su entorno.                                                                                            | Aventura narrativa | PC/Móvil         |
+| Ruleta Tiesa Nerf         | $100 Mx  | Prototipo de ruleta rusa con objetos que influyen en la partida si se usan estratégicamente.                                                                                                               | Party Game         | PC (Local)/Gameboard       |
 
 ![UI Tienda Práctica 10](./assets/UI%20Tienda.png)
 
