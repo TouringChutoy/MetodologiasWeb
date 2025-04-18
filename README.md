@@ -10,3 +10,4 @@
 - [Práctica 8 Simulador de Registro](https://touringchutoy.github.io/MetodologiasWeb/practica-8/)
 - [Práctica 9 Simulador de Registro](https://touringchutoy.github.io/MetodologiasWeb/practica-9/)
 - [Práctica 10 Tienda Online md](/tienda-online.md)
+- [Práctica 11 Modelado Tienda md](/modelado-tienda.md)
