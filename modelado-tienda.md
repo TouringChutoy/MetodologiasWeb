@@ -123,3 +123,9 @@
 
 1. Validar monto contra total del pedido.
 2. Actualizar estado del pedido a "completado" si pago es aprobado.
+
+## Diagrama Supabase
+
+### **Modelo Racional de la BD Tienda Online en Supabase**
+
+![Diagrama Racional Tienda Online en Supabase](./assets/Modelo%20Racional%20Tienda%20Online%20Supabase.png)
